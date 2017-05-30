@@ -9,6 +9,12 @@
 - license breakdown for rubygems
 - number of unlicensed (copyrighted) rubygems
 
+- Example of how many repos depend on an insecure version of a rubygem
+
+- Example of how a copyleft dependency can infect many repositories
+
+- CII ruby projects and the ones in the most trouble
+
 ---
 
 - average number of runtime dependencies of a npm module
