@@ -124,19 +124,46 @@ So let's look at some of the issues that all these puppies can bring to your rub
 ## Licensing
 
 ### Unlicensed code
+
+TODO
+
 ### Copyleft licenses
+
+TODO
+
 ### Conflicting licenses
+
+TODO
+
 ### Transitive licenses
+
+TODO
+
 ### Non-Open Source Licenses (example: greensock-rails)
 
+TODO
 
 ## Security
 
 ### CVEs
+
+TODO
+
 ### Ruby Advisory Database
+
+TODO
+
 ### Native dependencies
+
+TODO
+
 ### Typosquatting - http://incolumitas.com/2016/06/08/typosquatting-package-managers/
+
+TODO
+
 ### Worms - https://www.infoq.com/news/2016/03/npm-infection
+
+TODO
 
 ## Maintenance and Sustainability
 
@@ -190,3 +217,5 @@ vendoring
 automatic updating
 
 ## Conclusion
+
+TODO
