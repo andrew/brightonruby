@@ -20,3 +20,31 @@ top.each {|p| puts "#{p.name},#{p.rp_count},#{p.dependent_repos_count}" };nil
 
 
 p = Licensee.project '/Users/andrew/code/file_browser/data/split/0.1.0', detect_readme: true, detect_packages: true
+
+-----
+
+- Download owners from rubygems and npm
+
+- Number of contributors and commits to the dependencies of rails 5.1.1
+
+- average number of runtime dependencies of a gem
+- average number of declared ruby dependencies in a repo (Gemfile/gemspec)
+- average number of resolved ruby dependencies in a repo (Gemfile.lock)
+- average number of owners for a rubygem
+- license breakdown for rubygems
+- number of unlicensed (copyrighted) rubygems
+
+- Example of how many repos depend on an insecure version of a rubygem
+
+- Example of how a copyleft dependency can infect many repositories
+
+- CII ruby projects and the ones in the most trouble
+
+---
+
+- average number of runtime dependencies of a npm module
+- average number of declared javascript dependencies in a repo (package.json)
+- average number of resolved javascript dependencies in a repo (shrinkwrap.json/yarn.lock/package-lock.json)
+- average number of owners for a npm module
+- license breakdown for npm
+- number of unlicensed (copyrighted) npm modules

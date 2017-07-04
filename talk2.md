@@ -108,7 +108,8 @@ https://twitter.com/ourfounder/status/770075137332932608
 - Update to date dependencies
 - Releasing new versions
 - Responsive to support requests
-- Bus factor
+- Bus factor https://libraries.io/bus-factor
+- Deprecation
 
 9. Security
 
@@ -134,6 +135,7 @@ https://twitter.com/mperham/status/880835731874168832
 - bystander effect
 - open collective
 - Project adoption
+- unseen infrastructure https://libraries.io/unseen-infrastructure
 
 13. Other kinds of dependencies
 

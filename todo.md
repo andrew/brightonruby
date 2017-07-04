@@ -1,25 +1,43 @@
-- Download owners from rubygems and npm
+7. Transitive dependencies
 
-- Number of contributors and commits to the dependencies of rails 5.1.1
+Average number of declared dependencies (Gemfile)
+Average number of resolved dependencies (Gemfile.lock)
 
-- average number of runtime dependencies of a gem
-- average number of declared ruby dependencies in a repo (Gemfile/gemspec)
-- average number of resolved ruby dependencies in a repo (Gemfile.lock)
-- average number of owners for a rubygem
-- license breakdown for rubygems
-- number of unlicensed (copyrighted) rubygems
 
-- Example of how many repos depend on an insecure version of a rubygem
+8. Maintenance
 
-- Example of how a copyleft dependency can infect many repositories
+Average time since last release
+Average time between releases
 
-- CII ruby projects and the ones in the most trouble
+Number of gems with outdated dependencies in their latest release
+Number of repositories with an outdated dependency
 
----
+Bus factor on rubygems
+Bus factor on GitHub
 
-- average number of runtime dependencies of a npm module
-- average number of declared javascript dependencies in a repo (package.json)
-- average number of resolved javascript dependencies in a repo (shrinkwrap.json/yarn.lock/package-lock.json)
-- average number of owners for a npm module
-- license breakdown for npm
-- number of unlicensed (copyrighted) npm modules
+9. Security
+
+Number of gems the depend on a vulnerable version of a gem
+Number of repos the depend on a vulnerable version of a gem
+
+10. Licenses
+
+Number of gems with no license
+Number of repos that depend on a gem with no license
+Breakdown of license usage on rubygems
+number of conflicting licensed gems
+
+13. Other kinds of dependencies
+
+NPM stats
+
+Average number of declared dependencies (package.json)
+Average number of resolved dependencies (yarn.lock)
+
+Number of modules with no license
+license breakdown
+
+Average time since last release
+Average time between releases
+
+Number of modules the depend on a vulnerable version of a gem
